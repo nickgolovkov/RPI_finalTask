@@ -1,0 +1,67 @@
+.ScreenBlock
+{
+	margin:auto;
+	overflow-x: hidden;
+
+}
+
+body {
+	background-color: rgb(250, 1, 1, 0.9);
+}
+
+button {
+	margin: auto;
+	align-items: center;
+	align-content: center;
+	display: block;
+}
+
+input {
+	margin: auto;
+	align-items: center;
+	display: block;
+}
+
+body h1 {
+	text-align: center;
+}
+
+.block
+{
+	float: left;
+	width: 300px;
+	height: 500px;
+	background-color: white;
+	margin: 10px;
+	padding: 0;
+}
+
+.block img
+{
+	width: 100%;
+}
+.block h1
+{
+	font-size: 15px;
+}
+
+.block h2
+{
+	font-size: 12px;
+}
+
+.block p
+{
+	font-size: 12px;
+}
+
+.list
+{
+	display: inline-flex;
+	background-color: white;
+	
+}
+.headblock
+{
+	display: inline-flex;
+}
